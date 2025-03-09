@@ -1,0 +1,12 @@
+¡Aviso!
+Para ejecutar este proyecto, usted necesita tener WSL (Ubuntu) o Linux.
+
+En Linux, puede compilar el proyecto con el siguiente comando:
+
+gcc cube.c
+
+Si ocurre un error y no se compila en WSL, pruebe con este comando:
+
+gcc cube.c -o cube -lm
+
+Este proyecto no puede compilarse en PowerShell, pero usted puede intentarlo.
